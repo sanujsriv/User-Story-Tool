@@ -1,0 +1,12 @@
+{"Desc_As":"As a user...8",
+ "UserStoryID" : "8",
+ "Desc_I":"I expect...8",
+ "Desc_So":"So that ...8",
+ "userstory_priority":"low",
+ "userstory_id" : "8",
+ "etc": "9.00",
+ "subStories": "1",
+ "userstory_name":"add SubStories"
+}
+
+ADD/EDIT UST

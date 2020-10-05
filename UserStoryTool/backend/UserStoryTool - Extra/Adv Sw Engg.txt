@@ -1,0 +1,51 @@
+- no. of tested subStories / Total no. of subStories = Project completetion in %
+
+Things to include in the database 
+
+- Estimated Time of Completion in Fibonacci No. (Sub Stories)
+- if (substories =1) then user story same as ETC otherwise sum of all ETCs of substories
+
+- Support Testing (0 or 1) : For all Devs | Choose project --> already tested --> all tested if all 1 
+
+User Story :
+(Summation) 
+	- substory 1
+	- substory 2 
+	- substory 3
+
+
+UserStory - 1 Analysis 2 Coding 3 Testing ( Not our part just 1 or 0 developer's part)
+
+sum/count of testing is : % Done of Project
+
+user story cannot be moved into testing until all substories are completed ( all are 100 %) 
+
+
+
+##############
+Tabes we need
+
+Support Testing (user_id,count_of_testers,story_id)
+Testing (user_id, story_id , test_status (0 or 1), test_id)
+SubUserStories (user_id,story_id,sub_storyid,Etc(Fibonacci),completed (0 or 1))
+
+
+---------------------------
+
+demo 4 : by 30th April
+
+Dev needs to :
+changes status of user stories
+
+Manager needs to : 
+Edit
+
+
+# Support Testing...
+# Assign (Edit)
+# Done for Sub-userStories
+
+
+
+
+
