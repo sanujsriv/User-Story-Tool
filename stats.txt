@@ -1,0 +1,174 @@
+User statistics, generated on 2020-05-14 11:14:19.948882
+------
+User: hasanalqudah     commits:1        pullrequests:0        othermerges:0       
+   filetype:no-ext     added:23         removed:0
+   filetype:.jsx       added:158        removed:0
+   filetype:.json      added:14744      removed:0
+   filetype:.lock      added:10411      removed:0
+   filetype:.css       added:21         removed:0
+   filetype:.js        added:169        removed:0
+   filetype:.md        added:68         removed:0
+   filetype:.svg       added:8          removed:0
+   filetype:.scss      added:191        removed:0
+   filetype:.html      added:38         removed:0
+   binfile:.ico        number:1
+------
+User: hasan            commits:17       pullrequests:0        othermerges:1       
+   filetype:.jsx       added:2          removed:157
+   filetype:.json      added:5067       removed:2529
+   filetype:.js        added:0          removed:13
+   filetype:.md        added:60         removed:61
+   filetype:.txt       added:3          removed:6
+   filetype:.scss      added:0          removed:67
+   filetype:.html      added:38         removed:38
+   binfile:.png        number:1
+   binfile:.jpg        number:3
+   binfile:.ico        number:2
+------
+User: No-more-ficklemind commits:24       pullrequests:1        othermerges:2       
+   filetype:no-ext     added:23         removed:23
+   filetype:.jsx       added:227        removed:1140
+   filetype:.json      added:14761      removed:14786
+   filetype:.lock      added:10411      removed:10411
+   filetype:.js        added:1431       removed:915
+   filetype:.md        added:16         removed:16
+   filetype:.svg       added:104        removed:104
+   filetype:.txt       added:4          removed:5
+   filetype:.scss      added:191        removed:191
+   filetype:.html      added:43         removed:43
+   binfile:.PNG        number:8
+   binfile:no-ext      number:10
+   binfile:.png        number:4
+   binfile:.JPG        number:3
+------
+User: Sanujkr          commits:26       pullrequests:1        othermerges:3       
+   filetype:.xclangspec added:226        removed:226
+   filetype:.pem       added:74         removed:74
+   filetype:.rb        added:6          removed:6
+   filetype:.targ      added:285        removed:285
+   filetype:.opts      added:20         removed:20
+   filetype:.conf      added:251        removed:251
+   filetype:.cc        added:48         removed:48
+   filetype:.crt       added:80         removed:80
+   filetype:.targets   added:118        removed:118
+   filetype:.rc        added:35         removed:35
+   filetype:.info      added:3845       removed:3845
+   filetype:.cs        added:273        removed:273
+   filetype:.js        added:2976519    removed:3047065
+   filetype:.el        added:344        removed:344
+   filetype:.wmf       added:0          removed:0
+   filetype:.filters   added:357        removed:357
+   filetype:.hpp       added:9808       removed:9808
+   filetype:.APACHE2   added:15         removed:15
+   filetype:.pbfilespec added:27         removed:27
+   filetype:.sln       added:39         removed:39
+   filetype:.pl        added:103        removed:103
+   filetype:.ejs       added:9          removed:9
+   filetype:.in        added:412        removed:412
+   filetype:.md~       added:319        removed:319
+   filetype:.ls        added:148        removed:148
+   filetype:.whitelist added:404        removed:404
+   filetype:.py        added:30394      removed:30394
+   filetype:.cpp       added:29187      removed:29187
+   filetype:.xml       added:2348       removed:2348
+   filetype:.css       added:2795       removed:2974
+   filetype:.tsx       added:1072       removed:1072
+   filetype:.def       added:542        removed:542
+   filetype:.log       added:1464       removed:1464
+   filetype:.sh        added:418        removed:418
+   filetype:.mdown     added:67         removed:67
+   filetype:.MIT       added:24         removed:24
+   filetype:.json5     added:55         removed:55
+   filetype:.markdown  added:2469       removed:2469
+   filetype:.DotSettings added:9          removed:9
+   filetype:.tsbuildinfo added:5754       removed:5754
+   filetype:.bnf       added:384        removed:400
+   filetype:.iml       added:12         removed:12
+   filetype:.mjs       added:40980      removed:40980
+   filetype:.pub       added:38         removed:38
+   filetype:.html      added:51320      removed:51282
+   filetype:.spec      added:66         removed:66
+   filetype:.disabled  added:12         removed:12
+   filetype:no-ext     added:52940      removed:53801
+   filetype:.priv      added:118        removed:118
+   filetype:.gyp       added:1309       removed:1309
+   filetype:.esprima   added:57         removed:57
+   filetype:.BSD       added:140        removed:140
+   filetype:.ps1       added:1710       removed:1728
+   filetype:.bak       added:234        removed:234
+   filetype:.yaml      added:7          removed:7
+   filetype:.vcxproj   added:188        removed:188
+   filetype:.sass      added:6          removed:6
+   filetype:.yml       added:6181       removed:6313
+   filetype:.rtf       added:29         removed:29
+   filetype:.scss      added:1078       removed:681
+   filetype:.1         added:896        removed:896
+   filetype:.webidl    added:28         removed:28
+   filetype:.bat       added:10         removed:10
+   filetype:.bar       added:0          removed:0
+   filetype:.snap      added:22         removed:22
+   filetype:.toml      added:41         removed:41
+   filetype:.h         added:9922       removed:9922
+   filetype:.ac        added:134        removed:134
+   filetype:.hbs       added:92         removed:92
+   filetype:.sql       added:526        removed:0
+   filetype:.closure-compiler added:606        removed:606
+   filetype:.json      added:317303     removed:305379
+   filetype:.c         added:162        removed:162
+   filetype:.settings  added:10         removed:10
+   filetype:.DOCS      added:319        removed:319
+   filetype:.am        added:128        removed:128
+   filetype:.lock      added:29710      removed:40121
+   filetype:.hex       added:25         removed:25
+   filetype:.txt       added:7184       removed:7046
+   filetype:.flow      added:3819       removed:3819
+   filetype:.fontified added:1107       removed:1107
+   filetype:.workflow  added:14         removed:14
+   filetype:.plist     added:63         removed:63
+   filetype:.ts        added:154243     removed:154830
+   filetype:.md        added:352692     removed:360246
+   filetype:.docx      added:0          removed:0
+   filetype:.pegjs     added:35         removed:35
+   filetype:.cmd       added:1615       removed:1632
+   filetype:.applescript added:83         removed:83
+   filetype:.svg       added:378        removed:342
+   filetype:.coffee    added:2158       removed:2158
+   filetype:.m4        added:167        removed:167
+   filetype:.jsx       added:17091      removed:600
+   filetype:.map       added:1819       removed:1819
+   filetype:.jst       added:2435       removed:2435
+   filetype:.jsm       added:66         removed:66
+   filetype:.patch     added:1208       removed:1812
+   filetype:.lcl       added:24501      removed:24501
+   filetype:.key       added:28         removed:28
+   filetype:.gypi      added:147        removed:147
+   filetype:.cfg       added:42         removed:42
+   binfile:.sketch     number:2
+   binfile:no-ext      number:12
+   binfile:.PNG        number:16
+   binfile:.icns       number:2
+   binfile:.node       number:2
+   binfile:.un~        number:8
+   binfile:.tgz        number:24
+   binfile:.tar        number:4
+   binfile:.rar        number:1
+   binfile:.png        number:230
+   binfile:.ico        number:11
+   binfile:.swf        number:2
+   binfile:.nib        number:2
+   binfile:.strings    number:2
+   binfile:.mem        number:3
+   binfile:.pdf        number:2
+   binfile:.exe        number:6
+   binfile:.zip        number:4
+------
+User: Jonathan Cook    commits:2        pullrequests:0        othermerges:0       
+   filetype:.txt       added:205        removed:32
+------
+User: vinayreddy1895   commits:29       pullrequests:0        othermerges:0       
+   filetype:.js        added:595        removed:134
+   binfile:.PNG        number:1
+   binfile:.png        number:4
+   binfile:.pdf        number:1
+   binfile:.JPG        number:2
+------
