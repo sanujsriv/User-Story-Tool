@@ -43,14 +43,15 @@ MySQL and hence we have decided to use MySQL as our database.
 
 # Team Organization and Tasks Sharing
 
-Our team consists of 5 members namely Sanuj Kumar, Dharma Teja Bandaru, Hasan AlQudah, Vinay Reddy Mareddy, Carl Williams. We have divided the work equally between us. 
+Our team consists of 5 members namely Sanuj Kumar, Dharma Teja Bandaru, Hasan Al-Qudah, Vinay Reddy Mareddy, Carl Williams. We have divided the work equally between us. 
 We worked on Agile basis for the project developing increments of work for every limited set 
 of time period. The main issues we had during the project where to fix up our requirements, 
 Integrate the module for front end and back end. We have also done testing for our tool and 
 the results look promising. 
-Front end – Sanuj Kumar & Hasan Al – Qudah.
-Back end – Vinay Reddy Mareddy & Dharma Teja Bandaru.
-Testing – The whole team.
-
+<ul>
+<li>Front end – Sanuj Kumar & Hasan Al – Qudah.
+<li>Back end – Vinay Reddy Mareddy & Dharma Teja Bandaru.
+<li>Testing – The whole team.
+</ul>
 <br>
 <p align="center">Thank you for reading!</span>
