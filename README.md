@@ -41,7 +41,7 @@ MySQL and hence we have decided to use MySQL as our database.
 ![ui](Documentation/Capture.PNG)
 ![ui](Documentation/main.PNG)
 
-# Team Organization and Tasks Sharing
+# Props
 
 Our team consists of 5 members namely Sanuj Kumar, Dharma Teja Bandaru, Hasan Al-Qudah, Vinay Reddy Mareddy, Carl Williams. We have divided the work equally between us. 
 We worked on Agile basis for the project developing increments of work for every limited set 
